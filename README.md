@@ -4,15 +4,15 @@
 WangZX2001/WangZX2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm **\<YOUR\_NAME>** 👋
+# Hi there, I'm Wang Zaixi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=900\&center=true\&vCenter=true\&width=800\&lines=Welcome+to+my+GitHub!;Computer+Engineering+@+NUS;Aerospace+%26+Robotics+Enthusiast;Flutter+%7C+Firebase+%7C+C%2B%2B+%7C+Verilog;Always+building+%26+learning)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:<YOUR_EMAIL>"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN>/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://<YOUR_WEBSITE>/"><img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel" /></a>
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=WangZX2001&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
