@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  /*<a href="https://<YOUR_WEBSITE>/"><img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel" /></a>*/
   <img src="https://komarev.com/ghpvc/?username=WangZX2001&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -59,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=WangZX2001&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WANGZX2001&layout=compact&hide_border=true" />
 </p>
 
@@ -97,9 +96,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ✉️ Get In Touch
 
-* 📫 Email: **\wangzaixi01@gmail.com**
-* 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/zaixi-wang-77ba7b169)/**
-* 🌐 Portfolio: **https\://\<YOUR\_WEBSITE>/**
+* 📫 Email: **wangzaixi01@gmail.com**
+* 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/zaixi-wang-77ba7b169)**
 
 > I’m open to collaborations on Flutter/Firebase apps, robotics/embedded systems, and aviation‑related projects.
 
@@ -110,27 +108,10 @@ You can click the Preview link to take a look at your changes.
 > (Optional) Enable the snake animation by using a GitHub Actions workflow and linking the generated SVG.
 
 ```md
-![snake gif](https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WANGZX2001/WANGZX2001/blob/output/github-contribution-grid-snake.svg)
 ```
 
 ---
-
-## ⚙️ How to Use This README
-
-1. **Create** a repository named exactly **`<YOUR_GITHUB_USERNAME>`** (your username).
-2. Add a file named **`README.md`** and paste this content.
-3. Replace **all placeholders**: `<YOUR_NAME>`, `<YOUR_EMAIL>`, `<YOUR_LINKEDIN>`, `<YOUR_WEBSITE>`, `<YOUR_GITHUB_USERNAME>`.
-4. Commit and push — GitHub will show this README on your profile.
-
-### Optional Enhancements
-
-* Deploy your own `github-readme-stats` on Vercel for reliability.
-* Add **GitHub Trophies**: `https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME>`
-* Add an **activity graph**: `https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB_USERNAME>&hide_border=true`
-* Pin repositories to highlight key projects.
-
----
-
 <p align="center">
   <i>Thanks for stopping by! ⭐ Star the projects you like and reach out to collaborate.</i>
 </p>
