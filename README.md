@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://<YOUR_WEBSITE>/"><img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel" /></a>
+  /*<a href="https://<YOUR_WEBSITE>/"><img src="https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=vercel" /></a>*/
   <img src="https://komarev.com/ghpvc/?username=WangZX2001&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -55,12 +55,12 @@ You can click the Preview link to take a look at your changes.
 ## 📈 GitHub Stats (Auto)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=<YOUR_GITHUB_USERNAME>&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=WangZX2001&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WANGZX2001&layout=compact&hide_border=true" />
 </p>
 
 > Tip: If the stats don’t load, deploy your own instance of `github-readme-stats` (Vercel) and update the URLs.
@@ -81,9 +81,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>📌 Quick Links (replace with your repositories)</summary>
 
-* 🔗 [GymFit Repository](https://github.com/<YOUR_GITHUB_USERNAME>/gymfit)
-* 🔗 [AR Photo Scanner](https://github.com/<YOUR_GITHUB_USERNAME>/ar-photo-scanner)
-* 🔗 [Alex Robot](https://github.com/<YOUR_GITHUB_USERNAME>/alex-robot)
+* 🔗 [GymFit Repository](https://github.com/WANGZX2001/gymfit)
 
 </details>
 
@@ -99,8 +97,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ✉️ Get In Touch
 
-* 📫 Email: **\<YOUR\_EMAIL>**
-* 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/)\<YOUR\_LINKEDIN>/**
+* 📫 Email: **\wangzaixi01@gmail.com**
+* 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/zaixi-wang-77ba7b169)/**
 * 🌐 Portfolio: **https\://\<YOUR\_WEBSITE>/**
 
 > I’m open to collaborations on Flutter/Firebase apps, robotics/embedded systems, and aviation‑related projects.
