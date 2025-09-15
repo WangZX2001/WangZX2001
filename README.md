@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=WangZX2001&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WANGZX2001&layout=compact&hide_border=true" />
 </p>
 
