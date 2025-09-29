@@ -62,7 +62,6 @@ You can click the Preview link to take a look at your changes.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WANGZX2001&layout=compact&hide_border=true" />
 </p>
 
-> Tip: If the stats don’t load, deploy your own instance of `github-readme-stats` (Vercel) and update the URLs.
 
 ---
 
@@ -78,7 +77,7 @@ You can click the Preview link to take a look at your changes.
   Raspberry Pi 4 + Arduino Mega 2560, LiDAR SLAM, servo claw; web visualization with Bokeh.
 
 <details>
-  <summary>📌 Quick Links (replace with your repositories)</summary>
+  <summary>📌 Quick Links </summary>
 
 * 🔗 [GymFit Repository](https://github.com/WANGZX2001/gymfit)
 
@@ -100,16 +99,6 @@ You can click the Preview link to take a look at your changes.
 * 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/zaixi-wang-77ba7b169)**
 
 > I’m open to collaborations on Flutter/Firebase apps, robotics/embedded systems, and aviation‑related projects.
-
----
-
-## 🐍 Contribution Graph Snake
-
-> (Optional) Enable the snake animation by using a GitHub Actions workflow and linking the generated SVG.
-
-```md
-![snake gif](https://github.com/WANGZX2001/WANGZX2001/blob/output/github-contribution-grid-snake.svg)
-```
 
 ---
 <p align="center">
