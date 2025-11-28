@@ -64,9 +64,11 @@
 
 ---
 
-## 🧊 3D Contribution Calendar
-![](./profile-3d-contrib/profile-green-animate.svg)
+## 🧊 Contribution Calendar
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WangZX2001/WangZX2001/main/profile-3d-contrib/profile-night-view.svg" />
+</p>
 
 ---
 ## 🧪 Featured Projects
