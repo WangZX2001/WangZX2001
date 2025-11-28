@@ -65,9 +65,6 @@
 
 
 ---
-
-## 🧪 Featured Projects
-
 ## 🧪 Featured Projects
 
 
@@ -88,8 +85,10 @@
 
 <details>
   <summary>📌 Quick Links </summary>
-
+* 🔗 [EG1311 Catapult Launcher Robot Repository](https://github.com/WangZX2001/EG1311-Catapult-Launcher))
+* 🔗 [CG1111A Maze Solver Robot Repository](https://github.com/WangZX2001/CG1111A-Maze-Solver)
 * 🔗 [GymFit Repository](https://github.com/WANGZX2001/gymfit)
+* 🔗 [EE2026 VeriGraph Calculator](https://github.com/WangZX2001/EE2026-Graphing-Calculator)
 
 </details>
 
