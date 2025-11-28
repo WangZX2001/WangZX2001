@@ -6,7 +6,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Wang Zaixi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=900\&center=true\&vCenter=true\&width=800\&lines=Welcome+to+my+GitHub!;Computer+Engineering+@+NUS;Aerospace+%26+Robotics+Enthusiast;Flutter+%7C+Firebase+%7C+C%2B%2B+%7C+Verilog;Always+building+%26+learning)](https://git.io/typing-svg)
+![Zaixi's header](https://capsule-render.vercel.app/api?
+type=waving&height=220
+&color=0:00F5A0,100:00D9F5
+&text=Wang%20Zaixi%20%F0%9F%9A%80
+&fontSize=42&fontAlign=50&fontAlignY=35
+&animation=fadeIn
+&desc=Computer%20Engineering%20%40%20NUS%20%7C%20Aerospace%20%26%20Robotics%20Enthusiast
+&descAlign=50&descAlignY=65)
+
 
 <p align="center">
   <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
