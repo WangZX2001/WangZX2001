@@ -92,8 +92,9 @@
   <ul>
     <li>🔗 <a href="https://github.com/WangZX2001/EG1311-Catapult-Launcher">EG1311 Catapult Launcher Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CG1111A-Maze-Solver">CG1111A Maze Solver Robot Repository</a></li>
-    <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CG2111A-Alex-Rescue-Robot">CG2111A Alex Rescue Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator Repository</a></li>
+    <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
   </ul>
 
 </details>
