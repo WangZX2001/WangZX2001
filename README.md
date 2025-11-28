@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @WangZX2001, a first-year Computer Engineering student at the National University of Singapore (NUS)🌱.  I’m passionate about robotics 😊 and enjoy working on projects that bring machines to life 🐱. During the holidays, I love creating my own personal robotics projects to explore new ideas 🤙. I believe robotics will play a huge role in shaping the future 🤖, from making our daily lives easier to helping solve global challenges🌍. You can check out my projects here on GitHub—feel free to explore and connect!🌐
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&width=1000&section=header&text=Wang%20Zaixi&fontSize=38&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=111111&desc=Computer%20Engineering%20Student%20%40%20NUS&descAlign=50&descAlignY=60" />
 </p>
@@ -26,11 +24,13 @@
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-283593?logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks/Tools**
 
