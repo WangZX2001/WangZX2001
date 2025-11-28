@@ -42,7 +42,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-CC0000?style=flat)
-![Bokeh](https://img.shields.io/badge/Bokeh-1F77B4?style=flat)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
@@ -69,14 +68,23 @@
 
 ## 🧪 Featured Projects
 
-* **GymFit (Orbital – Level Apollo)**
-  Personalized workout plans, weight/calorie/water tracking, gamification, and tips for student wellness.
+## 🧪 Featured Projects
 
-* **AR Photo Scanner / Time Capsule**
-  MindAR.js + A‑Frame + Firebase overlaying videos on printed photos; gallery and upload dashboard.
 
-* **Alex Rescue Robot**
-  Raspberry Pi 4 + Arduino Mega 2560, LiDAR SLAM, servo claw; web visualization with Bokeh.
+* **EG1311 Catapult Launcher Robot**  
+  A mobile robot that drives forward and backward and uses a servo-powered arm to launch ping-pong balls; designed and built for engineering fundamentals and mechanical design coursework.
+
+* **CG1111A Maze Solver Robot**  
+  Autonomous maze-solving robot using **LDR**, **IR**, and **ultrasonic sensors** for colour detection, obstacle avoidance, and directional decision-making; implemented with microcontroller logic and sensor fusion.
+  
+* **CG2111A Alex Rescue Robot**  
+  Raspberry Pi 4 + Arduino Mega 2560 platform with LiDAR SLAM, autonomous navigation, and servo-based claw; includes web visualization to navigate the robot automonously in a maze.
+
+* **EE2026 VeriGraph Calculator**  
+  FPGA-based scientific/graphing calculator built on the **Basys 3 board**, featuring arithmetic operations, graph plotting, OLED display, PS/2 mouse input, and custom Verilog modules for add/sub, mul/div, trig, and graph rendering.
+  
+* **GymFit**  
+  Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
 
 <details>
   <summary>📌 Quick Links </summary>
