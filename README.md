@@ -14,10 +14,9 @@
 ## 🚀 About Me
 
 * 🎓 Year 2 **Computer Engineering** student @ **NUS**
-* ✈️ Passionate about **aviation, aerospace, and robotics**
-* 🛠️ Builder of **GymFit** (Orbital Apollo), **AR Photo Scanner**, and **Alex** rescue robot
-* 🧪 Payload Team member working on **in‑flight experiments** and interdisciplinary engineering
-* 💡 Always exploring **embedded systems**, **Flutter/Firebase**, and **computer vision/LiDAR**
+* ✈️ Passionate about **aviation and robotics**
+* 🛠️ Actively exploring **Embedded System**, **Microcontroller Programming** and **Hardware Software Integration**
+* 🤖 Created project such as Alex (search-and-rescue robot), GymFit (Mobile Application), and VeriGraph Calculator
 
 > *“Make it work. Make it right. Make it fast.”*
 
