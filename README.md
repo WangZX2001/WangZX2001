@@ -1,20 +1,22 @@
 - 👋 Hi, I’m @WangZX2001, a first-year Computer Engineering student at the National University of Singapore (NUS)🌱.  I’m passionate about robotics 😊 and enjoy working on projects that bring machines to life 🐱. During the holidays, I love creating my own personal robotics projects to explore new ideas 🤙. I believe robotics will play a huge role in shaping the future 🤖, from making our daily lives easier to helping solve global challenges🌍. You can check out my projects here on GitHub—feel free to explore and connect!🌐
 
-<!---
-WangZX2001/WangZX2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there, I'm Wang Zaixi
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&width=1000&section=header&text=Wang%20Zaixi&fontSize=38&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=111111&desc=Computer%20Engineering%20Student%20%40%20NUS&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
-  <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:wangzaixi01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="mailto:e1397940@u.nus.edu">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook" />
+  </a>
+  <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=WangZX2001&style=for-the-badge" alt="profile views"/>
 </p>
+
 
 ---
 
