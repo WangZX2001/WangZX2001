@@ -52,16 +52,17 @@
 
 ---
 
-## 📈 GitHub Stats (Auto)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=WangZX2001&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=WangZX2001&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WANGZX2001&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangZX2001&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
+
 
 
 ---
