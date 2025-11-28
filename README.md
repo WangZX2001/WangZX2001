@@ -10,10 +10,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&width=1000&section=header&text=Wang%20Zaixi&fontSize=38&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=111111&desc=Computer%20Engineering%20Student%20%40%20NUS&descAlign=50&descAlignY=60" />
 </p>
 
-
-
-
-
 <p align="center">
   <a href="mailto:wangzaixi01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
