@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Wang Zaixi
 
-![Zaixi's header](https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Wang%20Zaixi%20%E2%80%93%20Computer%20Engineering%20%40%20NUS&fontSize=38&fontAlign=50&fontAlignY=45&animation=fadeIn&fontColor=111111&desc=wangzaixi01%40gmail.com&descAlign=50&descAlignY=70)
+![Zaixi's header](https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Wang%20Zaixi%20%E2%80%93%20Computer%20Engineering%20%40%20NUS&fontSize=38&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=111111&desc=wangzaixi01%40gmail.com&descAlign=50&descAlignY=60)
+
 
 
 <p align="center">
