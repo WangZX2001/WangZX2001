@@ -62,6 +62,13 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangZX2001&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
+---
+
+## 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/WangZX2001/WangZX2001/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 
 ---
