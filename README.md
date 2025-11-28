@@ -67,7 +67,7 @@
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/WangZX2001/WangZX2001/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/WangZX2001/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 
