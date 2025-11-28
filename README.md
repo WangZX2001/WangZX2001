@@ -90,17 +90,17 @@
     <li>🔗 <a href="https://github.com/WangZX2001/EG1311-Catapult-Launcher">EG1311 Catapult Launcher Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CG1111A-Maze-Solver">CG1111A Maze Solver Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
-    <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator Repository</a></li>
   </ul>
 
 </details>
+
 ---
 
 ## 🏆 Achievements
 
-* 🎖️ **NUS Orbital – Level Apollo** (GymFit)
-* 🛰️ **Payload Team** – Interdisciplinary in‑flight experiments
-* 🧑‍🏫 **Community Tech Education** – Digital literacy workshops for 200+ seniors
+* 🎖️ **NUS Project Orbital – Level Apollo** (GymFit)
+* 🧠 **DSTA Brainhack Code EXP 2025 – Finalist**
 
 ---
 
@@ -109,7 +109,7 @@
 * 📫 Email: **wangzaixi01@gmail.com**
 * 💼 LinkedIn: **[https://www.linkedin.com/in/](https://www.linkedin.com/in/zaixi-wang-77ba7b169)**
 
-> I’m open to collaborations on Flutter/Firebase apps, robotics/embedded systems, and aviation‑related projects.
+> I’m open to collaborations on Software Applications, Robotics/embedded systems, and Aviation‑related projects.
 
 ---
 <p align="center">
