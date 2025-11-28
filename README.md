@@ -84,14 +84,16 @@
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
 
 <details>
-  <summary>📌 Quick Links </summary>
-* 🔗 [EG1311 Catapult Launcher Robot Repository](https://github.com/WangZX2001/EG1311-Catapult-Launcher)
-* 🔗 [CG1111A Maze Solver Robot Repository](https://github.com/WangZX2001/CG1111A-Maze-Solver)
-* 🔗 [GymFit Repository](https://github.com/WANGZX2001/gymfit)
-* 🔗 [EE2026 VeriGraph Calculator](https://github.com/WangZX2001/EE2026-Graphing-Calculator)
+  <summary>📌 Quick Links</summary>
+
+  <ul>
+    <li>🔗 <a href="https://github.com/WangZX2001/EG1311-Catapult-Launcher">EG1311 Catapult Launcher Robot Repository</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CG1111A-Maze-Solver">CG1111A Maze Solver Robot Repository</a></li>
+    <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator</a></li>
+  </ul>
 
 </details>
-
 ---
 
 ## 🏆 Achievements
