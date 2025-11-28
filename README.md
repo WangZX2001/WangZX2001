@@ -24,24 +24,31 @@
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matrix&logoColor=white)
 
 **Frameworks/Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros\&logoColor=white)
-![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-CC0000)
-![Bokeh](https://img.shields.io/badge/Bokeh-1F77B4)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-CC0000?style=flat)
+![Bokeh](https://img.shields.io/badge/Bokeh-1F77B4?style=flat)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat&logo=easyeda&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-AC8400?style=flat&logo=altiumdesigner&logoColor=white)
+
 
 ---
 
