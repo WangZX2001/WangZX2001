@@ -6,16 +6,20 @@
 
 <p align="center">
   <a href="mailto:wangzaixi01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:e1397940@u.nus.edu">
-    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook" />
+  
+  <a href="mailto:wangzaixi01@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/zaixi-wang-77ba7b169/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=WangZX2001&style=for-the-badge" alt="profile views"/>
 </p>
+
 
 
 ---
