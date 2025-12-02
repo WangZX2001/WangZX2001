@@ -60,7 +60,7 @@
   <!-- Main GitHub Stats -->
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&hide_border=true&theme=tokyonight"
     alt="GitHub Stats"
   />
   <!-- Streak Stats -->
@@ -70,16 +70,6 @@
     alt="GitHub Streak"
   />
 </p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangZX2001&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=7200"
-    alt="Top Languages"
-  />
-</p>
-
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangZX2001&layout=compact&hide_border=true&theme=tokyonight" />
