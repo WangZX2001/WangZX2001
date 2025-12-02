@@ -63,6 +63,7 @@
     src="https://streak-stats.demolab.com?user=WangZX2001&hide_border=true&theme=tokyonight"
     alt="GitHub Streak"
   />
+  <img width="50" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangZX2001&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
