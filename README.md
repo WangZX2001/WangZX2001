@@ -57,12 +57,6 @@
 </p>
 
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img
-    height="160"
-    src="https://github-readme-stats-git-main-rongronggg9.vercel.app/api"
-    alt="GitHub Stats"
-  />
   <!-- Streak Stats -->
   <img
     height="160"
