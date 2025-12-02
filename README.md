@@ -14,7 +14,7 @@
 * 🎓 Year 2 **Computer Engineering** student @ **NUS**
 * ✈️ Passionate about **aviation and robotics**
 * 🛠️ Actively exploring **Embedded System**, **Microcontroller Programming** and **Hardware Software Integration**
-* 🤖 Created project such as Alex (search-and-rescue robot), GymFit (Mobile Application), and VeriGraph Calculator
+* 🤖 Created project such as Alex (search-and-rescue robot), GymFit (Mobile Application) and VeriGraph Calculator
 
 > *“Make it work. Make it right. Make it fast.”*
 
@@ -57,10 +57,16 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-wangzx2001.vercel.app/api?username=WangZX2001&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://streak-stats.demolab.com?user=WangZX2001&hide_border=true&theme=tokyonight" />
-
-
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=WangZX2001&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200"
+    alt="WangZX2001 GitHub stats"
+  />
+  <img
+    height="160"
+    src="https://streak-stats.demolab.com?user=WangZX2001&hide_border=true&theme=tokyonight"
+    alt="GitHub streak stats"
+  />
 </p>
 
 <p align="center">
