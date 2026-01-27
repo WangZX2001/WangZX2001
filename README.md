@@ -90,7 +90,7 @@
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
 
 * **Sortify AI**
-* An AI-powered automated waste sorting solution that tackles the critical problem of improper recycling. Using YOLOv8 computer vision, our system instantly classifies waste and physically sorts items using a dual-servo Arduino mechanism.
+  An AI-powered automated waste sorting solution that tackles the critical problem of improper recycling. Using YOLOv8 computer vision, our system instantly classifies waste and physically sorts items using a dual-servo Arduino mechanism.
 
 <details>
   <summary>📌 Quick Links</summary>
