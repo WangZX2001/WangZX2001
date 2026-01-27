@@ -27,6 +27,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -88,6 +89,9 @@
 * **GymFit**  
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
 
+  * **Sortify AI**  
+  An AI-powered automated waste sorting solution that tackles the critical problem of improper recycling. Using YOLOv8 computer vision, our system instantly classifies waste and physically sorts items using a dual-servo Arduino mechanism.
+
 <details>
   <summary>📌 Quick Links</summary>
 
@@ -97,6 +101,7 @@
     <li>🔗 <a href="https://github.com/WangZX2001/CG2111A-Alex-Rescue-Robot">CG2111A Alex Rescue Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
+    <li>🔗 <a href="https://github.com/WANGZX2001/Sortify-AI">Sortify AI Repository</a></li>
   </ul>
 
 </details>
@@ -105,6 +110,7 @@
 
 ## 🏆 Achievements
 
+* 🤖 **NUS Hack&Roll 2026** (Sortify AI)
 * 🎖️ **NUS Project Orbital – Level Apollo** (GymFit)
 * 🧠 **DSTA Brainhack Code EXP 2025 – Finalist**
 
