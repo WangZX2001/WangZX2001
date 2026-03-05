@@ -48,6 +48,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=solidworks&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat&logo=easyeda&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-AC8400?style=flat&logo=altiumdesigner&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 
 ---
@@ -85,6 +86,9 @@
 
 * **EE2026 VeriGraph Calculator**  
   FPGA-based scientific/graphing calculator built on the **Basys 3 board**, featuring arithmetic operations, graph plotting, OLED display, PS/2 mouse input, and custom Verilog modules for add/sub, mul/div, trig, and graph rendering.
+
+* **CG2028 Fall Detection System**  
+  Developed an embedded fall detection system using STM32 sensors to detect sudden impacts and altitude changes, with real-time data monitoring and visualization.
   
 * **GymFit**  
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
@@ -100,6 +104,7 @@
     <li>🔗 <a href="https://github.com/WangZX2001/CG1111A-Maze-Solver">CG1111A Maze Solver Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CG2111A-Alex-Rescue-Robot">CG2111A Alex Rescue Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator Repository</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CG2028-Fall-Detection-System">CG2028 Fall Detection System Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/Sortify-AI">Sortify AI Repository</a></li>
   </ul>
