@@ -90,12 +90,12 @@
 * **CG2028 Fall Detection System**  
   Developed an embedded fall detection system using STM32 sensors to detect sudden impacts and altitude changes, with real-time data monitoring and visualization.
 
-* **CS2113 Individual Project: Algo**
-  Java command-line personal assistant developed for the CS2113 individual project, focusing on object-oriented programming, command parsing, exception handling, file I/O, and automated testing. The application supports managing tasks such as todos, deadlines, and events through a text-based interface with persistent local storage.
+* **CS2113 Individual Project**
+  Java command-line personal assistant developed for the CS2113 individual project, focusing on object-oriented programming. The application supports managing tasks such as todos, deadlines, and events through a text-based interface.
 
-* **CS2113 Team Project: Finbro**
-  Java command-line personal finance tracker built as a CS2113 team project with Gradle, JUnit 5, Checkstyle, text UI tests, user documentation, and developer documentation. Finbro records expenses, supports guided and direct commands, filters and sorts spending records, manages monthly budget limits with reminders, converts currencies using an offline rate table, visualizes monthly spending, and saves data locally between sessions.
-
+* **CS2113 Team Project**
+  Java command-line personal finance tracker built as a CS2113 team project with Gradle, JUnit 5, Checkstyle, text UI tests, user documentation, and developer documentation.
+  
 * **CG2271 RTOS Weather Forecast Station**
   Real-time operating system project for a weather forecast station with disaster warning capability, integrating sensor data collection, task scheduling, and alert logic for timely environmental monitoring.
   
