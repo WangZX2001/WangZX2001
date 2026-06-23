@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Year 2 **Computer Engineering** student @ **NUS**
+* 🎓 Year 3 **Computer Engineering** student @ **NUS**
 * ✈️ Passionate about **aviation and robotics**
 * 🛠️ Actively exploring **Embedded System**, **Microcontroller Programming** and **Hardware Software Integration**
 * 🤖 Created project such as Alex (search-and-rescue robot), GymFit (Mobile Application) and VeriGraph Calculator
@@ -95,6 +95,9 @@
 
 * **CS2113 Team Project: Finbro**
   Java command-line personal finance tracker built as a CS2113 team project with Gradle, JUnit 5, Checkstyle, text UI tests, user documentation, and developer documentation. Finbro records expenses, supports guided and direct commands, filters and sorts spending records, manages monthly budget limits with reminders, converts currencies using an offline rate table, visualizes monthly spending, and saves data locally between sessions.
+
+* **CG2271 RTOS Weather Forecast Station**
+  Real-time operating system project for a weather forecast station with disaster warning capability, integrating sensor data collection, task scheduling, and alert logic for timely environmental monitoring.
   
 * **GymFit**  
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
@@ -113,6 +116,7 @@
     <li>🔗 <a href="https://github.com/WangZX2001/CG2028-Fall-Detection-System">CG2028 Fall Detection System Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CS2113-Individual-Project">CS2113 Individual Project: Algo</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CS2113-Team-Project">CS2113 Team Project: Finbro</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CG2271-Weather-Forcast-and-Disaster-Warning-System">CG2271 Weather Forcast and Disaster Warning System</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/Sortify-AI">Sortify AI Repository</a></li>
   </ul>
