@@ -89,6 +89,12 @@
 
 * **CG2028 Fall Detection System**  
   Developed an embedded fall detection system using STM32 sensors to detect sudden impacts and altitude changes, with real-time data monitoring and visualization.
+
+* **CS2113 Individual Project: Algo**
+  Java command-line personal assistant developed for the CS2113 individual project, focusing on object-oriented programming, command parsing, exception handling, file I/O, and automated testing. The application supports managing tasks such as todos, deadlines, and events through a text-based interface with persistent local storage.
+
+* **CS2113 Team Project: Finbro**
+  Java command-line personal finance tracker built as a CS2113 team project with Gradle, JUnit 5, Checkstyle, text UI tests, user documentation, and developer documentation. Finbro records expenses, supports guided and direct commands, filters and sorts spending records, manages monthly budget limits with reminders, converts currencies using an offline rate table, visualizes monthly spending, and saves data locally between sessions.
   
 * **GymFit**  
   Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
@@ -105,6 +111,8 @@
     <li>🔗 <a href="https://github.com/WangZX2001/CG2111A-Alex-Rescue-Robot">CG2111A Alex Rescue Robot Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/EE2026-Graphing-Calculator">EE2026 VeriGraph Calculator Repository</a></li>
     <li>🔗 <a href="https://github.com/WangZX2001/CG2028-Fall-Detection-System">CG2028 Fall Detection System Repository</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CS2113-Individual-Project">CS2113 Individual Project: Algo</a></li>
+    <li>🔗 <a href="https://github.com/WangZX2001/CS2113-Team-Project">CS2113 Team Project: Finbro</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/gymfit">GymFit Repository</a></li>
     <li>🔗 <a href="https://github.com/WANGZX2001/Sortify-AI">Sortify AI Repository</a></li>
   </ul>
@@ -115,6 +123,7 @@
 
 ## 🏆 Achievements
 
+* 🚁 **DSTA Brainhack Roboverse 2026 – Finalist**
 * 🤖 **NUS Hack&Roll 2026** (Sortify AI)
 * 🎖️ **NUS Project Orbital – Level Apollo** (GymFit)
 * 🧠 **DSTA Brainhack Code EXP 2025 – Finalist**
