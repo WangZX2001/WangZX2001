@@ -74,39 +74,6 @@
 ---
 ## 🧪 Featured Projects
 
-
-* **EG1311 Catapult Launcher Robot**  
-  A mobile robot that drives forward and backward and uses a servo-powered arm to launch ping-pong balls; designed and built for engineering fundamentals and mechanical design coursework.
-
-* **CG1111A Maze Solver Robot**  
-  Autonomous maze-solving robot using **LDR**, **IR**, and **ultrasonic sensors** for colour detection, obstacle avoidance, and directional decision-making; implemented with microcontroller logic and sensor fusion.
-  
-* **CG2111A Alex Rescue Robot**  
-  Raspberry Pi 4 + Arduino Mega 2560 platform with LiDAR SLAM, autonomous navigation, and servo-based claw; includes web visualization to navigate the robot automonously in a maze.
-
-* **EE2026 VeriGraph Calculator**  
-  FPGA-based scientific/graphing calculator built on the **Basys 3 board**, featuring arithmetic operations, graph plotting, OLED display, PS/2 mouse input, and custom Verilog modules for add/sub, mul/div, trig, and graph rendering.
-
-* **CG2028 Fall Detection System**  
-  Developed an embedded fall detection system using STM32 sensors to detect sudden impacts and altitude changes, with real-time data monitoring and visualization.
-
-* **CS2113 Individual Project**
-  Java command-line personal assistant developed for the CS2113 individual project, focusing on object-oriented programming. The application supports managing tasks such as todos, deadlines, and events through a text-based interface.
-
-* **CS2113 Team Project**
-  Java command-line personal finance tracker built as a CS2113 team project with Gradle, JUnit 5, Checkstyle, text UI tests, user documentation, and developer documentation.
-  
-* **CG2271 RTOS Weather Forecast Station**
-  Real-time operating system project for a weather forecast station with disaster warning capability, integrating sensor data collection, task scheduling, and alert logic for timely environmental monitoring.
-  
-* **GymFit**  
-  Mobile Application that allows user to create personalized workout plans, weight/calorie/water tracking, gamification, and health tips designed for student wellness.
-
-* **Sortify AI**
-  An AI-powered automated waste sorting solution that tackles the critical problem of improper recycling. Using YOLOv8 computer vision, our system instantly classifies waste and physically sorts items using a dual-servo Arduino mechanism.
-
-# Projects
-
 | Project | Key Technologies / Skills | Summary |
 | --- | --- | --- |
 | **EG1311 Catapult Launcher Robot** | Mechanical design, servo actuation, mobile robot control | Mobile robot that drives forward and backward and uses a servo-powered arm to launch ping-pong balls for engineering fundamentals coursework. |
