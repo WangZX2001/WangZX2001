@@ -105,7 +105,9 @@
 * **Sortify AI**
   An AI-powered automated waste sorting solution that tackles the critical problem of improper recycling. Using YOLOv8 computer vision, our system instantly classifies waste and physically sorts items using a dual-servo Arduino mechanism.
 
-  | Project | Key Technologies / Skills | Summary |
+# Projects
+
+| Project | Key Technologies / Skills | Summary |
 | --- | --- | --- |
 | **EG1311 Catapult Launcher Robot** | Mechanical design, servo actuation, mobile robot control | Mobile robot that drives forward and backward and uses a servo-powered arm to launch ping-pong balls for engineering fundamentals coursework. |
 | **CG1111A Maze Solver Robot** | LDR sensors, IR sensors, ultrasonic sensors, microcontroller logic, sensor fusion | Autonomous maze-solving robot that performs colour detection, obstacle avoidance, and directional decision-making. |
@@ -117,6 +119,7 @@
 | **CS2113 Team Project: Finbro** | Java, Gradle, JUnit 5, Checkstyle, text UI testing, documentation | Command-line personal finance tracker that records expenses, filters and sorts spending records, manages monthly budget limits, converts currencies offline, visualizes monthly spending, and persists data locally. |
 | **GymFit** | Mobile app development, workout planning, health tracking, gamification | Student wellness app for personalized workout plans, weight/calorie/water tracking, gamification, and health tips. |
 | **Sortify AI** | YOLOv8, computer vision, Arduino, dual-servo sorting mechanism | AI-powered automated waste sorting solution that classifies waste in real time and physically sorts items using a dual-servo Arduino mechanism. |
+
 
 <details>
   <summary>📌 Quick Links</summary>
